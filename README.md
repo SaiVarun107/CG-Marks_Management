@@ -8,7 +8,7 @@ This is a simple Java-based console application for managing student records usi
 
 -> Basic CRUD Operations (Create, Read, Update, Delete)
 
-*Features*
+**Features**
 
 1. Add a new student
 
@@ -22,7 +22,7 @@ This is a simple Java-based console application for managing student records usi
 
 6. Graceful error handling with custom exceptions
 
-*Technologies Used*
+**Technologies Used**
 
 Java 
 
@@ -30,14 +30,14 @@ Java Collections (Map)
 
 Console-based input/output
 
-*Project Structure*
+**Project Structure**
 
-*File	Description*
+**File	Description**
 
 Student Marks Management System is a simple Java console application that allows users to manage student records using Object-Oriented Programming principles. It supports basic CRUD operations (Create, Read, Update, Delete) using a HashMap and demonstrates exception handling with custom exceptions in a beginner-friendly way.
 
 
-*Concepts Practiced*
+**Concepts Practiced**
 
 -> OOP principles (Encapsulation, Classes)
 
